@@ -60,4 +60,4 @@ class ArticleFragment : Fragment() {
             return fragment
         }
     }
-}// Required empty public constructor
+}
